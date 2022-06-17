@@ -1,16 +1,36 @@
-# untitled
+![Git Merge](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47jqtntysop731cjzobl7r0z155whp4ll5cqjgvr2g&rid=giphy.gif&ct=g)
 
-A new Flutter project.
+### Status
 
-## Getting Started
+- [x]  :green_heart: Pronta
+- [ ]  :construction: Pendente
 
-This project is a starting point for a Flutter application.
+### Problema/Feature
 
-A few resources to get you started if this is your first Flutter project:
+Eu criei as paginas de adicionar valores e editar valores, nas quais serão utilizadas para adicionar uma nova receita/despesa e editar valores nos quais já estavam na plataforma.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Solução
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Eu usei como base o protótipo do Figma, e tentei implementar com o máximo de precisão.
+
+### Evidência de teste
+
+<details>
+
+<summary>
+Tela de adição de valores.
+</summary> 
+
+![image](https://user-images.githubusercontent.com/78240326/168927423-8de71f04-28f8-4970-b991-067391a5a977.png)
+
+</details>
+<details>
+
+<summary>
+Tela de Edição de valores.
+</summary> 
+
+![image](https://user-images.githubusercontent.com/78240326/168927681-3ad4e0d2-55f8-4dc9-a0f8-6f710a50e348.png)
+
+</details>
+
